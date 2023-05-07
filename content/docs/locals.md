@@ -3,7 +3,10 @@ date: "2017-04-21T19:26:46-04:00"
 title: "Local cops don’t pursue most cybercriminals."
 authors: ["nselby"]
 categories:
-  -
+  - security
+  - policing
+  - infosec
+  - cybercrime
 tags:
   - cybercrime
   - investigations

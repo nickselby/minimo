@@ -3,7 +3,7 @@ date: "2017-01-11T15:52:11-04:00"
 title: "When Pain Meets Bad Health Policy and Bad Drug Laws"
 authors: ["nselby"]
 categories:
-  -
+  - policing
 tags:
   - drug-policy
   - policing

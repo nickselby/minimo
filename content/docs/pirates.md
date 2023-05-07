@@ -5,6 +5,7 @@ authors: ["nselby"]
 categories:
   - features
   - technology
+  - infosec
   
 tags:
   - config

@@ -3,7 +3,9 @@ date: "2021-02-27T16:15:39-04:00"
 title: "Shooting For The Stars? Jump into the Pool"
 authors: ["nselby"]
 categories:
-  -
+  - infosec
+  - cyber
+  - security
 tags:
   - infosec
   - jobs
