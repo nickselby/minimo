@@ -13,7 +13,7 @@ draft: false
 *This article originally appeared in the [Munich Found](http://www.munichfound.com/)* 
 
 
-{{< figure width="300" class="right" src="/images/kopfgeld.jpg" caption="Odeonsplatz Metro, Munich"  >}}The team of plainclothes agents moves in, and takes position. The suspect is in the corner, the gentleman with the pierced face, shaved head, tattoos and a scuffed leather jacket. He is almost 2 meters tall.I’ve seen this kind of thing before, riding shotgun with cops in New York and St Petersburg, but Munich’s *kopfgeldjaeger*, "head-hunters", are different. They’re despised and mocked: I met one who’d appeared on a TV talk show as having one of the, "worst jobs in Munich". But the MVV Transit Ticket Controllers I met are, for all the world, a bunch of pussycats. 
+{{< figure width="300" class="right" src="/images/kontroller.jpg" caption="Odeonsplatz Metro, Munich"  >}}The team of plainclothes agents moves in, and takes position. The suspect is in the corner, the gentleman with the pierced face, shaved head, tattoos and a scuffed leather jacket. He is almost 2 meters tall.I’ve seen this kind of thing before, riding shotgun with cops in New York and St Petersburg, but Munich’s *kopfgeldjaeger*, "head-hunters", are different. They’re despised and mocked: I met one who’d appeared on a TV talk show as having one of the, "worst jobs in Munich". But the MVV Transit Ticket Controllers I met are, for all the world, a bunch of pussycats. 
 
 "It’s a game," says Wolfy, amiable team leader of this 8-person crew which prowls the city’s public transport system in search of scofflaws. "They see us coming, and we see them see us coming." 
 
