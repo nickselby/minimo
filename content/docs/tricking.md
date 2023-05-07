@@ -1,6 +1,6 @@
 ---
 date: "2021-10-16T07:44:04-04:00"
-title: "Tricking Your Team Isn't The Answer"
+title: "Phishing Your Team Isn't The Answer"
 authors: ["nselby"]
 categories:
   - infosec
